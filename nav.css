@@ -1,0 +1,12 @@
+.menu{
+    display: flex;
+    justify-content: center;
+  
+
+}
+.word ,h2{
+  text-align-last: right;
+  color:aliceblue;
+  
+
+}
